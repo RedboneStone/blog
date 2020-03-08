@@ -14,5 +14,7 @@
 
   掌握前端最佳实践,确定努力方向,
 
-- 
+- [前端最佳实践]: https://github.com/RedboneStone/blog/blob/master/%E5%89%8D%E7%AB%AF%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.xmind
+
+  
 
